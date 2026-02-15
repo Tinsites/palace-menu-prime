@@ -134,6 +134,9 @@ const Index = () => {
         <img src={paloLogo} alt="Palo Place" className="mx-auto mb-4 h-16 w-auto opacity-80" />
         <p className="text-sm">© {new Date().getFullYear()} Palo Place. All rights reserved.</p>
         <p className="mt-1 text-xs text-primary-foreground/50">Premium Nigerian Dining</p>
+        <p className="mt-3 text-xs text-primary-foreground/40">Developed by{" "}
+          <a href="https://tinsites.site" target="_blank" rel="noopener noreferrer" className="underline transition-colors hover:text-secondary">Tinsites Web Solutions</a>
+        </p>
       </footer>
     </div>
   );
