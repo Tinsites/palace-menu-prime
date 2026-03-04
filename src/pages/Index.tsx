@@ -147,7 +147,7 @@ const Index = () => {
               transition={{ delay: 0.2, duration: 0.5, type: "spring" }}
               className="mx-auto mb-6 flex h-16 w-16 items-center justify-center rounded-2xl border border-secondary/30 bg-secondary/10 backdrop-blur-sm"
             >
-              <span className="text-3xl">🍽</span>
+              <MapPin className="h-7 w-7 text-secondary" />
             </motion.div>
             <h2 className="mb-4 text-5xl font-bold tracking-tight text-primary-foreground md:text-6xl lg:text-7xl">
               Our Menu
