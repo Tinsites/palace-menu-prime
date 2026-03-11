@@ -158,7 +158,7 @@ const Index = () => {
               <div className="h-px w-12 bg-gradient-to-l from-transparent to-secondary/60" />
             </div>
             <p className="mx-auto max-w-md text-lg font-light tracking-wide text-primary-foreground/70 md:text-xl">
-              Premium Nigerian Dining Experience
+              Premium Nigerian & Continental Dining Experience
             </p>
           </motion.div>
 
